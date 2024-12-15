@@ -1,0 +1,81 @@
+body{
+    text-align: center;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #e8f8f5; 
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    border-radius: 100%;
+
+  
+    
+  
+}
+
+.hero .div{
+    background-color: teal;
+    text-decoration: #e8f8f5;
+    
+    
+}
+.ui-access{
+    background-color: teal;
+
+   
+}
+
+.h2 .class{
+    color: teal;
+    text-decoration: #e8f8f5;
+
+}
+.h2 {
+    color: teal;
+
+}
+.button1{
+    background-color: teal ;
+    color: #e8f8f5;
+    border-radius: 8px;
+    width: 10%;
+    height: 5%;
+    text-align: center;
+    
+}
+.button2{
+    background-color: antiquewhite;
+    color: teal;
+    border-radius: 8px;
+    width: 11%;
+    height: 8%;
+}
+.button3{
+    background-color: teal;
+    color: #e8f8f5;
+    border-radius: 5px;
+    width: 20%;
+    height: 8%;
+}
+.button4{
+    background-color: teal;
+    color: #e8f8f5;
+    border-radius: 5px;
+    width: 20%;
+    height: 100%;
+    border-radius: 20%;
+
+}
+.body{
+    border-radius: 0%;
+}
+
+.div8{
+    border-radius: 30%;
+}
+
+
+
+
+
+
